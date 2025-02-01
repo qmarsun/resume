@@ -51,7 +51,7 @@ Performed POC in Sybase migration in Amazon Cloud EC2, S3
 Developing automated script to validate Sybase to MSSQL server database server migration
 Developed the following POC projects using Open AI python api
 Image to query, Doc match and report the differences, Sound To Text, 
-and Sybae to Oracle code conversion.
+and Sybase stored proc to Oracle PL/SQL code conversion.
 Municipal Bond Trading System 
 Retired the legacy systems (Autosys, Shell Scripts, TIBCO and MQ)
 Migrating Sybase into Oracle.
