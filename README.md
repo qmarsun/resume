@@ -2,8 +2,6 @@
 
 
 Kumar Sundaram
-732 910 3925
-kumarsundar2011@gmail.com
 www.linkedin.com/in/kumar-sundaram-43390a16
 
 
