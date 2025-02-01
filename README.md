@@ -1,7 +1,5 @@
-# resume
-
-
-Kumar Sundaram
+#  Kumar Sundaram
+<pre>
 www.linkedin.com/in/kumar-sundaram-43390a16
 
 
@@ -146,3 +144,4 @@ Environment: Turbo C/C++ 2.0, DOS and Btrieve 5.2
 EDUCATION
 Master of Computer Application, Madurai Kamaraj University, TN, India, 1993
 Bachelors of Science Degree in Mathematics, Madurai Kamaraj University, TN, India, 1990
+</pre>
