@@ -23,6 +23,7 @@ Tools:				Teamquest, Ethereal, Load Runner 9.1 and   Xrunner/ Win runner,
                                                       Real Time  Java, IONA Orbix 3.1 and  Rough wave 
 Profiling Tools:			Valgrind, Jprofiler and Introscope	.	
 Messaging:			FCIF, XML, SWIFT and FIX 
+Message queue			MQ, Apache Kafka , AMPS (60East) and Zero MQ
 Cloud Technologies		AWS Workspace, AWS S3, AWS Glue, AWS Athena and AWS Lambda
 				RedHat OpenShift, Kubernetes and Docker
 Databases:			Sybase12, DB2 UDB 8.1 , Oracle and  MySQL
