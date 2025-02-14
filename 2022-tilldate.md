@@ -1,11 +1,10 @@
-- retire ~300 shel scripts and ~200 autosys
+- retire ~300 shell scripts and ~200 autosys
 - retire filesystem
 - retire legacy system ( scripts, java jars,
 - switch tibco mq
 - retire mq
 - retire autosys
-- retire Filesystem
-- stopped all the process
+- retire stopped all the process
 - retire the machine
 - retire databse ( dump sybase to Oracle using sqlloader bulk export and bulk import )
 - retire storage after taking temp backup to local disk
