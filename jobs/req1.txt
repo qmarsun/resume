@@ -1,0 +1,30 @@
+https://groupo.pinpointhq.com/en/postings/939ae202-a60d-420d-9a0a-55b4abfcf17f
+
+Key Responsibilities
+Write SQL queries in a Teradata environment across multiple platforms.
+Utilize Microsoft Access including data import/export, query building, information extraction, and mechanization.
+Collect, clean, and validate data from various sources to ensure accuracy and completeness.
+Analyze data to identify trends, patterns, and anomalies.
+Develop and maintain dashboards and reports using data visualization tools such as Tableau, Power BI, or similar platforms.
+Collaborate with cross-functional teams to understand their data needs and provide relevant insights.
+Utilize statistical techniques to perform hypothesis testing, regression analysis, and predictive modeling.
+Communicate findings and insights through clear and concise reports and presentations.
+Monitor key performance indicators (KPIs) and metrics to track business performance and identify areas for improvement.
+Assist in the development and implementation of data collection systems and strategies to optimize efficiency and quality.
+Stay updated with industry trends and best practices in data analysis and visualization.
+Job Qualifications
+Minimum Qualifications
+Bachelor's degree in Statistics, Mathematics, Computer Science, Economics, or a related field.
+Proven experience as a Data Analyst or in a similar role.
+Expert knowledge of complex databases: i.e., Teradata database with thousands of data tables and views accessing customers, products, orders, etc.
+Expert knowledge of Excel Graphs, Charts, Pivot Tables, Power Point, etc.
+Ability to write SQL queries in a large database environment. Must be a strong SQL Coder with Data Mining Skills (Understands complex coding processes, i.e., Joins, Aggregating Data, Building Temp Tables, Formatting Data, and Import & Export Processes).
+Proficiency with ETL (Extract, Transfer & Load) processing.
+Strong knowledge of data visualization tools (e.g., Tableau, Power BI).
+Excellent analytical and critical thinking skills.
+Ability to interpret and present complex data in a clear and concise manner.
+Strong mindfulness and accuracy.
+Effective communication and collaboration skills.
+Ability to work independently and manage multiple tasks simultaneously.
+Desired Qualifications
+Experience using UNIX, Fast Load, Fast Export, encryption software a plus; as well as experience/knowledge in the Telecommunication industry.
