@@ -1,0 +1,31 @@
+ey responsibilities:
+
+ https://www.linkedin.com/jobs/collections/recommended/?currentJobId=4155986783
+
+Articulate and evangelize a bold technical vision for your domain 
+ Decompose complex problems into practical and operational solutions 
+ Ensure the quality of technical design and implementation 
+ Serve as an authoritative expert on non-functional system characteristics, such as performance, scalability and operability 
+ Continue learning and injecting advanced technical knowledge into our community 
+ Handle several projects simultaneously, balancing your time to maximize impact 
+ Act as a role model and mentor within the tech community, helping to coach and strengthen the technical expertise and know-how of our engineering and product community 
+Explore new cloud technologies and identify applications to leverage their potential
+Develop patterns for cloud to enable emerging business initiatives
+Collaborate with tech leaders to drive tech strategy
+Evangelize cloud strategy, solutions and best practices across the enterprise
+
+Basic Qualifications
+
+ Bachelor’s Degree 
+At least 10 years of experience with software programming
+At least 7 years of experience with solution architecture or software engineering
+At least 5 years of experience with cloud computing (AWS, Microsoft Azure, Google Cloud)
+
+Preferred Qualifications: 
+
+ Master's Degree in Computer Science or a related field 
+ 10+ years of professional experience in the full lifecycle of system development, from conception through architecture, implementation, testing, deployment and production support 
+ 7+ years of experience using Python or Java, or Go, and SQL 
+ 5+ years on AWS Serverless Technologies 
+ 3+ years of experience with Kafka, Airflow, Spark, AWS Glue/Kinesis 
+ 3+ years of experience with streaming and event driven technologies 
